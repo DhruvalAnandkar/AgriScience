@@ -48,7 +48,7 @@ Here’s a brief overview of the hardware part used in the project, including th
 The machine learning model can be trained and tested using Jupyter Notebooks. The recommended crops will be shown based on the input conditions.
 
 ### Team Lead:
-**Dhruval Anandkar**  
+- **Dhruval Anandkar**  
 *Lead Developer and Researcher*
 
 ### Team Members:
