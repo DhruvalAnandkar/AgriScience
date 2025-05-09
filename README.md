@@ -24,8 +24,7 @@ The outcome is a robust recommendation system that identifies the best crop for 
 
 Here’s a brief overview of the hardware part used in the project, including the IoT setup for soil moisture and sunlight exposure monitoring.
 
-![IoT Hardware Setup](path_to_image_or_video_here)  
-*(Insert a visual or video file of your hardware here; if using GitHub, you can upload it to the repository and link it here)*
+https://github.com/DhruvalAnandkar/AgriScience/blob/main/AgriScience%20Demo%20Video%20(1)%20(1).mp4  => Click Raw
 
 ## How It Works
 
